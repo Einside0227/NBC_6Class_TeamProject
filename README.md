@@ -5,6 +5,17 @@
 ## 사용한 기술
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=White"/>
 
+## 👤 작업 및 역할 분담
+| 이름 | 캐릭터 | 담당 역할 |
+|------|--------|----------|
+| 이관식 | <img width="74" height="66" alt="image" src="https://github.com/user-attachments/assets/6c56013d-a78d-4f09-88ad-92aa0e8b9d46" /> | <ul><li>깃 마스터</li><li>매니저 클래스</li></ul>|     
+| 윤기상 | <img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/cfa66256-d99f-4878-9cba-299414963348" /> | <ul><li>상속 설계</li><li>아이템 클래스</li></ul> |
+| 최유택 | <img width="72" height="77" alt="image" src="https://github.com/user-attachments/assets/59733a8b-d753-403d-b4d9-1553841208db" /> | <ul><li>보스 몬스터</li><li>서기 (회의록)</li></ul>  |
+| 김상훈 | <img width="71" height="73" alt="image" src="https://github.com/user-attachments/assets/66fa9d34-6884-419b-8764-7f098c90f7b2" /> | <ul><li>스크립트 검수</li><li>플레이어 클래스</li></ul> |
+| 박둘내 | <img width="73" height="73" alt="image" src="https://github.com/user-attachments/assets/31996ef2-0a90-4d6b-9ab4-e5faca6cda06" /> | <ul><li>데이터 베이스</li><li>전투 시스템</li></ul>  |
+| 서우정 | <img width="74" height="65" alt="image" src="https://github.com/user-attachments/assets/6028205e-70bd-42e8-a5d1-83fa58c0001b" /> | <ul><li>상점 클래스</li><li>몬스터 클래스</li></ul> |
+
+
 ## 1️⃣ 필수 기능
 ### **1. 플레이어 캐릭터 생성**
 
